@@ -1,14 +1,17 @@
 ﻿using System.Reflection;
 using Calculadora;
- repetir: 
-Console.WriteLine("digite o primeiro valor");
+using Layout;
+repetir: 
+
+Formatacao.Cor("Digite o primeiro valor: ", ConsoleColor.Blue);
 if (!decimal.TryParse(Console.ReadLine(),out decimal valorl))
 {
     Console.WriteLine("Valor invalido! ");
    goto repetir; 
 }
  repetir_valor2: 
-Console.WriteLine("digite o segundo valor");
+10
+Formatacao.Cor("Digite o segundo valor: ", ConsoleColor.Yellow);
 if (!decimal.TryParse(Console.ReadLine(),out decimal valor2))
 {
     Console.WriteLine("Valor invalido! ");
