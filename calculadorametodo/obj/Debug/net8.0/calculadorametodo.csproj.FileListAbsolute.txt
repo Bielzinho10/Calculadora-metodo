@@ -1,0 +1,15 @@
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Calculadora-metodo\calculadorametodo\obj\Debug\net8.0\calculadorametodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Calculadora-metodo\calculadorametodo\obj\Debug\net8.0\calculadorametodo.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Calculadora-metodo\calculadorametodo\obj\Debug\net8.0\calculadorametodo.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Calculadora-metodo\calculadorametodo\obj\Debug\net8.0\calculadorametodo.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Calculadora-metodo\calculadorametodo\obj\Debug\net8.0\calculadorametodo.sourcelink.json
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Calculadora-metodo\calculadorametodo\bin\Debug\net8.0\calculadorametodo.exe
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Calculadora-metodo\calculadorametodo\bin\Debug\net8.0\calculadorametodo.deps.json
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Calculadora-metodo\calculadorametodo\bin\Debug\net8.0\calculadorametodo.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Calculadora-metodo\calculadorametodo\bin\Debug\net8.0\calculadorametodo.dll
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Calculadora-metodo\calculadorametodo\bin\Debug\net8.0\calculadorametodo.pdb
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Calculadora-metodo\calculadorametodo\obj\Debug\net8.0\calculadorametodo.dll
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Calculadora-metodo\calculadorametodo\obj\Debug\net8.0\refint\calculadorametodo.dll
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Calculadora-metodo\calculadorametodo\obj\Debug\net8.0\calculadorametodo.pdb
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Calculadora-metodo\calculadorametodo\obj\Debug\net8.0\calculadorametodo.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documentos\GabrielFerreira\Calculadora-metodo\calculadorametodo\obj\Debug\net8.0\ref\calculadorametodo.dll
