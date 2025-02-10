@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\OneDrive\\Documentos\\GabrielFerreira\\Calculadora-metodo\\calculadorametodo\\calculadorametodo.csproj": {}
+    "C:\\Users\\Alunos\\Documents\\gabriel\\Calculadora-metodo\\Calculadora-metodo\\calculadorametodo\\calculadorametodo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\OneDrive\\Documentos\\GabrielFerreira\\Calculadora-metodo\\calculadorametodo\\calculadorametodo.csproj": {
+    "C:\\Users\\Alunos\\Documents\\gabriel\\Calculadora-metodo\\Calculadora-metodo\\calculadorametodo\\calculadorametodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documentos\\GabrielFerreira\\Calculadora-metodo\\calculadorametodo\\calculadorametodo.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\gabriel\\Calculadora-metodo\\Calculadora-metodo\\calculadorametodo\\calculadorametodo.csproj",
         "projectName": "calculadorametodo",
-        "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\GabrielFerreira\\Calculadora-metodo\\calculadorametodo\\calculadorametodo.csproj",
+        "projectPath": "C:\\Users\\Alunos\\Documents\\gabriel\\Calculadora-metodo\\Calculadora-metodo\\calculadorametodo\\calculadorametodo.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\GabrielFerreira\\Calculadora-metodo\\calculadorametodo\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Documents\\gabriel\\Calculadora-metodo\\Calculadora-metodo\\calculadorametodo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
